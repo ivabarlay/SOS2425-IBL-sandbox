@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/ivabarlay/SOS2425-IBL-sandbox/issues"
   },
-  "homepage": "https://github.com/ivabarlay/SOS2425-IBL-sandbox#readme"
+  "homepage": "https://github.com/ivabarlay/SOS2425-IBL-sandbox#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
 }
